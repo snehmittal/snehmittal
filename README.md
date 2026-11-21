@@ -29,5 +29,5 @@ National Institute of Advanced Manufacturing Technology
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/snehmittal
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/sneh-mittal-b5b345323?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
