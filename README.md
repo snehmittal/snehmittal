@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sneh Mittal 👋
 
-<!--
-**snehmittal/snehmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | AI/ML Enthusiast | Software Engineering
 
-Here are some ideas to get you started:
+I'm a third-year Computer Science and Engineering student interested in building intelligent applications using Machine Learning, Deep Learning, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring how AI can solve real-world problems and developing practical projects that combine software engineering with machine learning.
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, C, C++, Java, R
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Core Areas:** Machine Learning, Deep Learning, Neural Networks
+- **Database:** MySQL
+- **Interests:** NLP, AI Agents, Semantic Search, AI Engineering
+
+### 🚀 Currently Exploring
+
+- Building practical AI/ML applications
+- Natural Language Processing
+- Large Language Models and RAG
+- AI-powered search and recommendation systems
+
+### 🎓 Education
+
+B.Tech in Computer Science and Engineering  
+National Institute of Advanced Manufacturing Technology
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/snehmittal
+- LinkedIn: [Add your LinkedIn URL]
+
